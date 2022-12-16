@@ -36,7 +36,7 @@ I'm a medical professional turned technical writer and am now learning the intri
 
 ## Resume
 
-## GitHub contributions
+## GitHub Contributions
 
 ## Connect with me
 
