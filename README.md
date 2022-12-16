@@ -25,20 +25,45 @@ To **edit**, click the **Pencil icon** on the right side of the README.md file. 
 ## Adding headers in Markdown
 Now, I will explain basic formatting of a README.md file. This should include headers, bulleted lists, hyperlinks, and images for ease of use. Begin by replacing your username with your title. Use hashtags to specify headers and their size. The more hashtags you insert, the smaller the header. You can use #,##,###, and so on to specify your layout. Your introduction should look something like this if done correctly:
 
-<img width="650" alt="Screen Shot 2022-12-08 at 9 40 11 PM" src="https://user-images.githubusercontent.com/119915484/206611837-bbdf8c3f-264a-4b4c-bc33-42d08ae4d211.png">
+```
+# Hello, I'm Francesca!
 
+I'm a medical professional turned technical writer and am now learning the intricacies of GitHub!
+
+## About me
+
+## Portfolio
+
+## Resume
+
+## GitHub contributions
+
+## Connect with me
+
+```
 
 ## Adding bulleted lists in Markdown
 Bulleted lists should be used to help organize subpoints and other information in your README.md file. To create a list, add a dash (-). Then, leave a space between the dash and the following character. In the screenshot below, I will be adding a bulleted list to my "About me" header. Like so:
 
-
-<img width="550" alt="Screen Shot 2022-12-08 at 9 50 09 PM" src="https://user-images.githubusercontent.com/119915484/206613321-93ec8714-2e32-4534-868f-2f5b7b40174d.png">
+```
+- Aspiring technical writer
+- Dog mom and expert cook
+- Outdoor enthusiast
+```
 
 
 ## Adding hyperlinks in Markdown
 Adding hyperlinks allows contributors to access outside information sources that can provide clairty to the project without cluttering the README.md file.  The proper syntax to add links in Markdown is:
 
-<img width="650" alt="Screen Shot 2022-12-08 at 10 03 21 PM" src="https://user-images.githubusercontent.com/119915484/206614923-72dfa6dd-6b22-4933-8694-26b71820bbd4.png"> 
+```
+[Text to display](link)
+```
+For example, to add to my "Connect" header, I would link the following:
+
+```
+- Find my LinkedIn [LinkedIn](https://www.linkedin.com/) profile
+- Follow me on Instagram [Instagram](https://www.instagram.com/)
+```
 
 
 ## Adding emojis in Markdown
@@ -47,7 +72,23 @@ Adding emojis is a great way to impart a more casual or fun tone. Refer to this 
 ## Final result
 Here is what your README.md file should look like so far:
 
-![Screen Shot 2022-12-08 at 10 55 34 PM](https://user-images.githubusercontent.com/119915484/206620697-11598c86-adf4-4f3b-8062-addabd84c7d4.png)
+```
+# Hello, I'm Francesca!
+
+I'm a medical professional turned technical writer and am now learning the intricacies of GitHub!
+
+## About me
+
+## Portfolio
+
+## Resume
+
+## GitHub contributions
+
+## Connect with me
+- Find my LinkedIn [LinkedIn](https://www.linkedin.com/) profile
+- Follow me on Instagram [Instagram](https://www.instagram.com/)
+```
 
 Here is what it looks like when viewed in the **Preview** tab:
 
