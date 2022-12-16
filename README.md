@@ -83,7 +83,7 @@ I'm a medical professional turned technical writer and am now learning the intri
 
 ## Resume
 
-## GitHub contributions
+## GitHub Contributions
 
 ## Connect with me
 - Find my LinkedIn [LinkedIn](https://www.linkedin.com/) profile
@@ -98,4 +98,4 @@ If you are happy with your results, scroll-down to the bottom of the page until 
 
 ![Screen Shot 2022-12-08 at 11 02 31 PM](https://user-images.githubusercontent.com/119915484/206621459-da4c3376-9157-49d2-ac8f-ef17b29e2462.png)
 
-You are now ready to personalize your own README.MD file! :clap:
+You are now ready to personalize your own README.md file! :clap:
